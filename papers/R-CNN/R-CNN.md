@@ -1,4 +1,4 @@
-# RCNN-基于候选区的目标价检测
+# RCNN-基于候选区的目标检测
 ## Rich feature hierarchies for accurate object detection and semantic segmentation
 #### [论文地址](/papers/R-CNN/Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 
